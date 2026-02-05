@@ -1,0 +1,21 @@
+
+{
+  "name": "Mandarin Master HSK 1-4",
+  "short_name": "HSKMaster",
+  "description": "Comprehensive Mandarin learning with Tutor Suun Yi Yang.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sumi&top=hijab",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
